@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import numpy as np
 from scipy.spatial.distance import euclidean
-import glob
+import glo
 
 # Initialize MediaPipe Hand module
 mp_drawing = mp.solutions.drawing_utils
